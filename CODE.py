@@ -1,7 +1,7 @@
 import nextcord
 import inquirer
 
-token = "MTA0NzE5ODIxODM2ODMyMzY4NA.G0lB6I.m252j7HQwoaamQksRrm53gcizabSd4gnDB3CbQ"
+token = "YOUR BOT TOKEN"
 client = nextcord.Client()
 
 @client.event
