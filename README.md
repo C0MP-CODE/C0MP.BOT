@@ -1,2 +1,2 @@
 # C0MP.BOT
-Script for sending embed messages with bot
+Official C0MP.Code script for sending embed messages on discord!
